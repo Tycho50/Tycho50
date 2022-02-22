@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tycho50
-- 👀 I’m interested in ... Web Design
+- 👀 I’m interested in ... Web Design, C#
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dwahlst.1@gmail.com
